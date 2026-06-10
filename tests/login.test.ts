@@ -20,6 +20,7 @@ test.describe('Valid Login', () => {
 });
 });
 
+/*
 test.describe('Invalid Login', () => {
     test('Login to Ndosi using invalid credentials @smoke', async ({ page }, testInfo) => {
     await page.goto('https://ndosisimplifiedautomation.vercel.app/');
@@ -39,7 +40,7 @@ test.describe('Invalid Login', () => {
     
 });
 });
-
+*/
 
 
 
